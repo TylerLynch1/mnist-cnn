@@ -14,10 +14,10 @@ This project evaluates six different combinations of optimizers and loss functio
 ### Test Loss and Test Accuracy for Six Models
 *(Note: The image below is not created in the code but is an example output.)*
 
-![Example Output](\images\results-cnn.png)
+![Example Output](images\results-cnn.png)
 
 ### Model Architecture Diagram
-![Model Architecture](\images\model-cnn.png)
+![Model Architecture](images\model-cnn.png)
 
 ---
 
