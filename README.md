@@ -17,7 +17,7 @@ This project evaluates six different combinations of optimizers and loss functio
 ![Example Output](https://github.com/TylerLynch1/mnist-cnn/blob/main/images/model-cnn.png)
 
 ### Model Architecture Diagram
-![Model Architecture](images\model-cnn.png)
+![Model Architecture](https://github.com/TylerLynch1/mnist-cnn/blob/main/images/results.png)
 
 ---
 
