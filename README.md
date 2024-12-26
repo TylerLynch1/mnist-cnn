@@ -14,10 +14,10 @@ This project evaluates six different combinations of optimizers and loss functio
 ### Test Loss and Test Accuracy for Six Models
 *(Note: The image below is not created in the code but is an example output.)*
 
-![Example Output](https://github.com/TylerLynch1/mnist-cnn/blob/main/images/model-cnn.png)
+![Example Output](https://github.com/TylerLynch1/mnist-cnn/blob/main/images/results.png)
 
 ### Model Architecture Diagram
-![Model Architecture](https://github.com/TylerLynch1/mnist-cnn/blob/main/images/results.png)
+![Model Architecture](https://github.com/TylerLynch1/mnist-cnn/blob/main/images/model-cnn.png)
 
 ---
 
